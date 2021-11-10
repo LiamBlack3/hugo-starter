@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "My Portfolio Title"
+baseURL = "https://liam-black-personal-website.netlify.app/"
+title = "Liam Black's Website"
 theme = "PaperMod"
 
 # Theme configuration
@@ -23,7 +23,7 @@ iconHeight = 24
 
 [params.profileMode]
 enabled = true
-title = "Jane Doe"
+title = "Liam Black"
 subtitle = "I am a Person"
 imageUrl = "profile.png"
 imageWidth = 120
