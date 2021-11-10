@@ -30,8 +30,8 @@ imageWidth = 120
 imageHeight = 120
 
 [[params.profileMode.buttons]]
-name = "tags"
-url = "/tags/"
+name = "resume"
+url = "/resume/"
 
 [[params.profileMode.buttons]]
 name = "puppies"
@@ -58,9 +58,9 @@ name = "gitlab"
 url = "https://gitlab.com/"
 
 [[menu.main]]
-identifier = "blog"
-name = "blog"
-url = "/blog/"
+identifier = "About me"
+name = "About me"
+url = "/About me/"
 weight = 10
 
 [[menu.main]]
@@ -70,7 +70,7 @@ url = "/projects/"
 weight = 20
 
 [[menu.main]]
-identifier = "link"
-name = "A link"
+identifier = "Tech-experience"
+name = "Tech-experience"
 url = "https://google.com/search?tbm=isch&q=cute%20puppies"
 weight = 30
