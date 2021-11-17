@@ -29,10 +29,7 @@ imageUrl = "profile.png"
 imageWidth = 120
 imageHeight = 120
 
-[[params.profileMode.buttons]]
-name = "resume"
-url = "https://github.com/allegheny-college-junior-innovators/resume-cv-LiamBlack3/blob/main/Liam%20Black%20resume.docx.pdf"
- [link to resume]
+
 
 
 [[params.profileMode.buttons]]
