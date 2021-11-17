@@ -67,3 +67,10 @@ identifier = "Tech-experience"
 name = "Tech-experience"
 url = "https://google.com/search?tbm=isch&q=cute%20puppies"
 weight = 30
+
+
+[[menu.main]]
+identifier = "resume"
+name = "resume"
+url = "/resume/"
+weight = 20
