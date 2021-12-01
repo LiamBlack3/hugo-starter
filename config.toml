@@ -38,9 +38,7 @@ url = ""
 
 
 
-[[params.socialIcons]]
-name = "instagram"
-url = "https://instagram.com/"
+
 
 
 
@@ -62,11 +60,7 @@ name = "projects"
 url = "/projects/"
 weight = 20
 
-[[menu.main]]
-identifier = "Tech-experience"
-name = "Tech-experience"
-url = "https://google.com/search?tbm=isch&q=cute%20puppies"
-weight = 30
+
 
 
 [[menu.main]]
