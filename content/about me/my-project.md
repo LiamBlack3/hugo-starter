@@ -12,7 +12,7 @@ cover:
   caption: "About Me"
 ---
 
-My name is Liam Black and I am currently a third year student at Allegheny College. I am a Computer Science Major, and a Psychology Minor. When it comes to the technical side of me I am currently interested in pursuing Data Analytics and getting first hand experience in that. What interests me is the social and ethical impacts of data anywhere from small scale to large. I have experience using R programming to create plots and tables to assist me in analyzing data sets. My future goal is to secure a data analytics internship where I can get first hand expereince using and plotting data and seeing how companies efficiently use people's data for their buisness.
+My name is Liam Black and I am currently a third year student at Allegheny College. I am a Computer Science Major, and a Psychology Minor. When it comes to the technical side of me I am currently interested in pursuing the data analytics field. I'd like to be apart of research that focuses on the social and ethical impacts of data on different societies. I have experience using R programming to create plots and tables to  analyze data sets. My future goal is to secure a data analytics internship where I can get first hand expereince using and plotting data and seeing how companies efficiently use people's data for their buisness.
 
 On the non-techincal side, I am a dual citizen in Italy and America, who loves to travel, go to museums, play sports, and listen to music. I am on the frisbee club team at allegheny and enjoy competitng in tournaments with my teamates.
 
@@ -34,5 +34,5 @@ CS 301 (Data Analytics)
 ## Activities
 
 - Treasurer for Ultimate Frisbee Club
-- Managed a budget of $14,000, forced to pay bids to tournaments, get hotels, re-imburse gas for students
-- Taked with constantly staying up tp date on bid fees, club dates and events and plan them months in advance.
+- Managed a budget of $14,000, used to pay bids to tournaments, hotels, memberships, and club equipment.
+- Taked with constantly staying up to date on bid fees, club dates and events.
