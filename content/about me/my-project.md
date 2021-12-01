@@ -3,7 +3,7 @@ title: "About Me"
 date: 2021-11-02T08:10:29-04:00
 weight: 1
 aliases: ["/my-project-blog"]
-tags: ["first", "about me -blog"]
+
 draft: false
 description: "Some summary description"
 cover:
@@ -16,7 +16,7 @@ My name is Liam Black and I am currently a third year student at Allegheny Colle
 
 On the non-techincal side, I am a dual citizen in Italy and America, who loves to travel, go to museums, play sports, and listen to music. I am on the frisbee club team at allegheny and enjoy competitng in tournaments with my teamates.
 
-## Experience
+##  Tech-Experience
 
 I have experience coding in
 -R programming
@@ -31,3 +31,8 @@ CS 301 (Data Analytics)
 - Used global health data to understand the social, cultural and political issues surrounding data and its investigation.
 
 
+## Activities
+
+- Treasurer for Ultimate Frisbee Club
+- Managed a budget of $14,000, forced to pay bids to tournaments, get hotels, re-imburse gas for students
+- Taked with constantly staying up tp date on bid fees, club dates and events and plan them months in advance.
