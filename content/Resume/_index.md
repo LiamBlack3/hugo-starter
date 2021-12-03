@@ -4,4 +4,4 @@ draft: false
 ShowBreadCrumbs: false
 ---
 
-[Link_to_Resume](/resume/resume.pdf)
+[Resume](/resume/resume.pdf)
