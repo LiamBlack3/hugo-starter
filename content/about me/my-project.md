@@ -36,3 +36,15 @@ CS 301 (Data Analytics)
 - Treasurer for Ultimate Frisbee Club
 - Managed a budget of $14,000, used to pay bids to tournaments, hotels, memberships, and club equipment.
 - Tasked with constantly staying up to date on bid fees, club dates and events.
+
+
+
+
+## Contact Information
+
+name = "github"
+url = "https://github.com/LiamBlack3"
+
+- Email: LiamBlackj@gmail.com
+
+- Phone: 203-939-3438
