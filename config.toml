@@ -34,7 +34,7 @@ imageHeight = 120
 
 [[params.profileMode.buttons]]
 name = "Contact info"
-url = ""
+url = "/Contact Info/"
 
 
 
