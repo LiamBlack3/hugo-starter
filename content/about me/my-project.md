@@ -19,8 +19,8 @@ On the non-techincal side, I am a dual citizen in Italy and America, who loves t
 ##  Tech-Experience
 
 I have experience coding in
--R programming
--Python
+- R programming
+- Python
 
 
 CS 301 (Data Analytics)
