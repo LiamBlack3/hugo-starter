@@ -4,8 +4,7 @@ draft: false
 ShowBreadCrumbs: false
 ---
 
-name = "github"
-url = "https://github.com/LiamBlack3"
+[Github](https://github.com/LiamBlack3)
 
 Email: LiamBlackj@gmail.com
 
