@@ -62,5 +62,5 @@ weight = 20
 [[menu.main]]
 identifier = "resume"
 name = "Resume"
-url = "/resume/"
+url = "(/resume/resume.pdf)"
 weight = 20
