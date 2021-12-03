@@ -42,7 +42,7 @@ CS 301 (Data Analytics)
 
 ## Contact Information
 
-- github: https://github.com/LiamBlack3
+- github: github.com/LiamBlack3
 
 - Email: LiamBlackj@gmail.com
 
