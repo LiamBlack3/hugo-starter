@@ -35,4 +35,4 @@ CS 301 (Data Analytics)
 
 - Treasurer for Ultimate Frisbee Club
 - Managed a budget of $14,000, used to pay bids to tournaments, hotels, memberships, and club equipment.
-- Taked with constantly staying up to date on bid fees, club dates and events.
+- Tasked with constantly staying up to date on bid fees, club dates and events.
