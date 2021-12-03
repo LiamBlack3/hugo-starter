@@ -9,7 +9,7 @@ description:
 cover:
   hidden: false
   image: ".png"
-  caption: "About Me"
+  
 ---
 
 My name is Liam Black and I am currently a third year student at Allegheny College. I am a Computer Science Major, and a Psychology Minor. When it comes to the technical side of me I am currently interested in pursuing the data analytics field. I'd like to be apart of research that focuses on the social and ethical impacts of data on different societies. I have experience using R programming to create plots and tables to  analyze data sets. My future goal is to secure a data analytics internship where I can get first hand expereince using and plotting data and seeing how companies efficiently use people's data for their buisness.
@@ -42,8 +42,7 @@ CS 301 (Data Analytics)
 
 ## Contact Information
 
-name = "github"
-url = "https://github.com/LiamBlack3"
+- github: https://github.com/LiamBlack3
 
 - Email: LiamBlackj@gmail.com
 
