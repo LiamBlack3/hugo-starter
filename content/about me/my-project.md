@@ -5,7 +5,7 @@ weight: 1
 aliases: ["/my-project-blog"]
 
 draft: false
-description: "Some summary description"
+description: 
 cover:
   hidden: false
   image: ".png"
