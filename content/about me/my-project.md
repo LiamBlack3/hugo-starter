@@ -8,7 +8,7 @@ draft: false
 description: 
 cover:
   hidden: false
-  image: ".png"
+  image: "IMG_4771.PNG"
   
 ---
 
