@@ -30,7 +30,11 @@ CS 301 (Data Analytics)
 - Completed assignments with Google Analytics to measure web page activity
 - Used global health data to understand the social, cultural and political issues surrounding data and its investigation.
 
+CS 101 (Data Abstraction)
+- Used python with an emphasis on implementing, using, and evaluating the computational structures needed to efficiently store and retrieve digital data.
 
+CS 102 (Discrete Structures)
+- Used python with an emphasis on understanding the abstract structures used to represent discrete objects
 ## Activities
 
 - Treasurer for Ultimate Frisbee Club
