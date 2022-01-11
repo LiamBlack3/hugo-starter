@@ -11,7 +11,7 @@ ShowPostNavLinks: false
 
 ## Data Analytics Final Project
 
-You can find the current release on [Github](https://github.com/LiamBlack3/Final-Project-301)!
+You can find the current release on [Github](https://github.com/LiamBlack3/Data-Analytics-Final-Project)!
 
 This project looks at public health indicators from countries around the world and answers research questions asking about the correlation between indicators.
 
