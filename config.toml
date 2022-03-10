@@ -65,3 +65,9 @@ identifier = "resume"
 name = "Resume"
 url = "/resume/"
 weight = 20
+
+[[menu.main]]
+identifier = "interests"
+name = "Interests"
+url = "/interests/"
+weight = 20
