@@ -21,7 +21,11 @@ On the non-techincal side, I am a dual citizen in Italy and America, who loves t
 I have experience coding in
 - R programming
 - Python
+- SQLite
 
+CS 312 (Database Systems)
+- Use SQLite to conduct queries and analyze results 
+- Create multiple databases by importing online data
 
 CS 301 (Data Analytics)
 - Completed labs by applying classroom learning to data sets to uncover correlations
@@ -37,9 +41,10 @@ CS 102 (Discrete Structures)
 - Used python with an emphasis on understanding the abstract structures used to represent discrete objects
 ## Activities
 
-- Treasurer for Ultimate Frisbee Club
+- Treasurer and President for Ultimate Frisbee Club
 - Managed a budget of $14,000, used to pay bids to tournaments, hotels, memberships, and club equipment.
 - Tasked with constantly staying up to date on bid fees, club dates and events.
+
 
 
 
