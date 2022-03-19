@@ -18,32 +18,18 @@ My area of excitement at the moment is in the field of data analytics. Specifica
 
 ## DBVisualizer
 
-## cs580-S2022-lab01
 
-### Name
-Liam Black
-
-### GitHub Account Name
-LiamBlack3
-
-### Submission Date
-2 March 2022
-
-https://www.dbvis.com/
 
 ### About
 
-Describe the software resource and explain its relevance to your topic. Please include the link to the software resource.
-
-	- I found this software online, it is a visualizer tool for people like me who would like to perform research and analysis using sqlite. My topic will include some data analytics research with predictive models so a tool like this has many features that would be highly beneficial to me.
+This is a visualizer tool for people like me who would like to perform research and analysis using sqlite. My topic will include some data analytics research with predictive models so a tool like this has many features that would be highly beneficial to me.
 
 ---
 
 ### Features
 
-Outline the main features of the software. Why is this software necessary for your work?
 
-	This software has many features that are useful for me. One of the main thhings I struggle with at the moment is spacing out my work or my thoughts. Using SQLite now I need a terminal window open, and a text editor open to be able to do my work. Having to go back and forth between windows to conduct queriers makes it a lot more tedious to do work than need be. Inisde the terminal is where I type in the query commands, create the table and see my results. Beacuse of all these tasks done in one small window I have to constantly scroll up and down to find my work to reference from which can be frustrating. A tool like DBVisualizer allows you to have all these areas in one whole window which is split up into easy readable sections. This tool has a section where you can see which files you are in and import those csv files to get your data base set up. It has a section where you can run your SQLite code only so you can see all your past lines of code, and it has a section seperate from this that shows the output of this code. This tool also has a window area where you can see your database schema making it much easier to generate queries cause you don't have to go looking for the column titles and database titles each time. 
+This software has many features that are useful for me. One of the main thhings I struggle with at the moment is spacing out my work or my thoughts. Using SQLite now I need a terminal window open, and a text editor open to be able to do my work. Having to go back and forth between windows to conduct queriers makes it a lot more tedious to do work than need be. Inisde the terminal is where I type in the query commands, create the table and see my results. Beacuse of all these tasks done in one small window I have to constantly scroll up and down to find my work to reference from which can be frustrating. A tool like DBVisualizer allows you to have all these areas in one whole window which is split up into easy readable sections. This tool has a section where you can see which files you are in and import those csv files to get your data base set up. It has a section where you can run your SQLite code only so you can see all your past lines of code, and it has a section seperate from this that shows the output of this code. This tool also has a window area where you can see your database schema making it much easier to generate queries cause you don't have to go looking for the column titles and database titles each time. 
 
 
 <img src="image.png" alt="drawing" width="500"/>
@@ -53,7 +39,7 @@ Outline the main features of the software. Why is this software necessary for yo
 
 Where do you find this software resource? Is it an open source project? an online tool? How do you install it? Are there any libraries that are also necessary to install?
 
-	- This resource is all done throughout its application. There is a free version and a pro version of this tool and is downloaded from the website as an application on your computer. https://www.dbvis.com/ is where you can download this tool for free. Once in the application you just need to import your data and you are able to create your own database with your own schema and go to work.
+This resource is all done throughout its application. There is a free version and a pro version of this tool and is downloaded from the website as an application on your computer. "https://www.dbvis.com/" is where you can download this tool for free. Once in the application you just need to import your data and you are able to create your own database with your own schema and go to work.
 
 <img src="image2.png" alt="drawing" width="500"/>
 
@@ -61,9 +47,8 @@ Where do you find this software resource? Is it an open source project? an onlin
 
 ### Setup
 
-Include steps of all necessary steps to get the software to run (for example, installations). Include the commands to run if necessary.
 
-	- Once installed you may open the application. There are no commands to run this program. You may import your data from your files using .import SQL code, and then create your database schema based off of that. Once your data base is created you have free reign to run query commands to find elements of your database. After this you are able to use the graphing feature to actually visualize your results to see what you are analyzing.
+Once installed you may open the application. There are no commands to run this program. You may import your data from your files using .import SQL code, and then create your database schema based off of that. Once your data base is created you have free reign to run query commands to find elements of your database. After this you are able to use the graphing feature to actually visualize your results to see what you are analyzing.
 
 ---
 
@@ -71,7 +56,7 @@ Include steps of all necessary steps to get the software to run (for example, in
 
 How do you get the resource ready to use? Are there inputs to know? Please show a step-by-step guide (in a tutorial format) for readying the resource for your work. Include screenshots of successful execution and use of the software.
 
-	- After opening the application it is all SQL knowledge from there. Here is a sample SQL code of importing downloaded data and creating a table.
+After opening the application it is all SQL knowledge from there. Here is a sample SQL code of importing downloaded data and creating a table.
 
 <img src="image3.png" alt="drawing" width="500"/>
 
@@ -80,14 +65,14 @@ How do you get the resource ready to use? Are there inputs to know? Please show 
 
 ### Helpful resources
 
-Include some of the relevant resources (links, articles, etc.) that you used to write in your tutorial.
 
-	- https://www.dbvis.com/features/
-	- https://www.dbvis.com/download/
+
+- https://www.dbvis.com/features/
+- https://www.dbvis.com/download/
 
 ---
 
-(Did you remember to add your name and GitHub account name and date to the top of this document?)
+
 
 
 
