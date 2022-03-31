@@ -12,62 +12,68 @@ ShowPostNavLinks: false
 ## Assignment 5
 ### Feasibility: How do-able is my project?
 
+#### Name
+Liam Black
+
+#### GitHub Account Name
+LiamBlack3
+
+#### Netlify address of your notebook.
+
+
+#### Submission Date
+31st March 2022
+
+---
 
 #### Questions
+
+
+
 Please anticipate at least 500 words for this writing assignment.
 
-1. Who are you interviewing (the interviewee)?
 
-Tommy Antle
+Please address the following prompts to demonstrate the feasibility of your research project idea.
 
-2. What is the GitHub account of the interviewee?
+1. Hardware: What hardware equipment is necessary to run this project? Include computer specifications or access to a cloud service.
 
-Antlet
+I will be using the tool spaCY which will comb through large amounts of data and allow me to extract key words. I will use R studio to show graphs and predictive models. I will also be using sql to organize my data base.
 
-3. What is your interviewee's area of interest?
+2. Tools: What software, libraries, and similar do you need to complete your project? Provide at least three examples of resources (software tools, programming languages, libraries, etc.) you will use to complete your project.
 
-Python static code analysis. This includes linters, and anything that will help get bugs out of programs before you compile it.
+I will be using Python and R, and the free open source tool called spaCy to complete my project. 
 
-4. Is the area of interest described clearly? (Are there seem to be clear goals for a potential research project?)
+3. Skills: How do the skills that you possess contribute to the completion of your proposed project? Discuss your knowledge of programming languages you might use, familiarity with libraries, ability to install software, your proven record of learning new technical skills, etc.
 
-Yes the area of interest of helping other people help themseleves by find actually necessacary and beneficial tools.
-
-5. What is your interviewee's proposal idea, in general?
-
-To make a tool that will analyze the anlysis tool. The goal is to see which analysis tools in python are better for certain projects.
-
-6. Is the proposal idea described clearly?
-
-Yes idea was described very clearly to me, I am not that familier with analsys tools and he described is idea very clearly to me.
-
-7. What are the research question(s) and/or hypothesis of the interviewee?
-
-How can I find the necessary and only necessary static analysis tools for their program to run?
-
-8. Does the research question(s) make sense to you, as described?
-
-yes, the research question makes sense to me as the program is trying to find the best tools for each program.
-
-9. What research gap does the proposed idea address?
-
-The research gap here is that there are plently of analysis tools for python programs but we lack something that tells us which tools are right for our program. Having down many tools takes a lot of time and space to run, this tool will make analysis more efficient.
-
-10. What supporting resources (tools, relevant literature, etc.) did the interviewee provide to demonstrate the feasibility of their idea? Briefly, describe at least three resources that they have used.
- 
- Github repository of all known python analysis tools pre-compile, will draw tools from there. Python language, and tool will be created in python. External libraries will most likely have to be used in this process but are to be determined at the moment.
+With my knowledge of python and sql and after time spent becoming for familiar with spaCy I will be able to import my database, organzie a schema, seperate the data and extract key words that I want. With python in spacy I will be able to find key words from my data base that correlate to players and extract information that way.
 
 
-11. How feasible is this idea for a senior thesis? Think in terms of required knowledge, available resources, time and necessary skills to complete the various tasks of the project.
+4. Data: Does your project require the use of existing data? If so, what data will you need, where will you obtain this data, how much can you obtain, how much is sufficient to use in your proposed project? If you plan to generate data, discuss how you will do so, where you will store the data, and how you will ensure its security.
 
-This research idea is very feasible as he has the tools necessary to complete this project. This project will be completed in 2-3 months.
+Yes my project is going to require existing data. I'll need to obtain player statistics in writing from a play-by-play sports site. I would like to do a seasons worth of basketball data, I think I would like to get it from one team. I would like to take key words out of the play by play to see some of the underlying stats that is not picked up my stats keepers in game. I would like to store it in a datbase that is accesable my spaCy.
 
-12. What draw-backs can you see in your interviewee's project?
+5. Time: How long do you anticipate for this project to take? How long will each part of the project take to complete? Remember that you will only have 2-3 months for the implementation of your project.
 
-One drawback is predicting which type of programs people will use this tool for. You need to know which type of program they are trying to run to know which tool is best for them. What tools and how many are you going to be looking at?
+I anticpiate this to take the full project time, I belive obtaining and storing the data in the most efficient way will take the most time as I will most likely have to hand put in the data if I would like to use number of times a key word appears in the play by play.
 
-13. What could be done to fix these drawbacks?
+6. Results: What do successful results look like? How will you test your project for both correctness and efficiency?
 
-To fix this drawback you mentioned how looking at specific python file types would be a good way to seperate files into categories to know which tools are best for each file. Their is a repository on git hub that lists the known static analysis tools.
+I would like to compare actual stats to hidden stats in this project. I can test successful results and questions by comparing it to known player specialists, meaning if my data shows that a player is a scoring specialist I can compare it to the actual stats. Successful results would look like having two data bases, one for numbered statistics and one for worded statistics and then using spaCy to comb through and extract what I am looking for.
+
+7. Analysis: How will you analyze the results? What approach will you use in the analysis? What experiments will you run to demonstrate your project and obtain results for analysis?
+
+I would like to use rstudio to create graphs to show trends in data for either specific players or specific teams. I would also like to see if I can encorporate some predictive modeling in their to further analyze the data.
+
+8. Other abilities and resources: What else do you need for this project? Is there anything else that you may need to use or implement at some point to make this project successful? What is your back-up plan if your original project process fails?
+
+if this orgininal project fails I would like to keep in the area of sports analytics but maybe just change what I am analyzing.
+
+9. Threats to Validity: What might invalidate your reported results? For example, are there any assumptions you made in your experimental design, is the data set you plan to use large enough, are you relying on someone else's work that may contain mistakes, is your research process reproducible?
+
+I would have to check all my p-values to deem if my results are significant because there is a lot of control variables I would need to watch out for. There could be coincidences of why people perform well certain nights and why they don't other nights, and a multiude of factors in sports can affect that, which I would have to try and controll.
+
+10. Please provide a cohesive blog post for feasibility on your website (min 200 words) to summarize your answers for the above questions.
+
 
 ---
 
