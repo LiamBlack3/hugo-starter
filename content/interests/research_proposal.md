@@ -24,7 +24,7 @@ Liam Black
 LiamBlack3
 
 ---
-```
+
 1. What is the area of your research in your proposed project idea? What is your specific proposed idea and why is it important? Motivate with references as relevant.
 
 Data Analytics for nba player data specifcally using touch tracking and advanced stats to compare against +/- statistics. I would like to conduct a player analysis to answer the question of why the plus minus statistic is innacurate in determining player value, and what is a better way to scout player skill.
@@ -63,7 +63,7 @@ Experiment hypothesis was testing to see if plus minus stats are in concordance 
 
 9. Discuss the results of the experiment. What was learned from applying these steps which will be helpful to the completion of your project and the achieving the main goals of your research project?
 
-Rsults proved the specific part of my hypothesis! The results I found is that the theory of scoring more points on average does not mean a higher +/- rating meaning that just because a player has a career high in a game it does not mean they contributed most on the court according to the calculation of the +/- stat. From applyying these steps I learned how to create a datbase in sql with  a part of the data set that I will be using, I used the starters for only one team here. I also was able to get my database into a python file so that I would be able to setup options that the user can choose from to pretty much answer questions I have given. I also then displayed results in the terminal for the user to analyze themselves and come up with their own conclusions.
+Results proved the specific part of my hypothesis! The results I found is that the theory of scoring more points on average does not mean a higher +/- rating meaning that just because a player has a career high in a game it does not mean they contributed most on the court according to the calculation of the +/- stat. From applyying these steps I learned how to create a datbase in sql with  a part of the data set that I will be using, I used the starters for only one team here. I also was able to get my database into a python file so that I would be able to setup options that the user can choose from to pretty much answer questions I have given. I also then displayed results in the terminal for the user to analyze themselves and come up with their own conclusions.
 
 10. How did you explain and visualize your results from your experiment so that they could be understood by those who are not in your field of research? Explain how these visualizations could be used in your research project to help explain its foundations.
 
@@ -77,7 +77,6 @@ One ethical concern is this is these players own data and preformance enhancing 
 12. What are the next steps to develop and complete your research project.
 
 There are several areas like I would like to upgrade with my project. I beleive I have a good foundation starting point on a small scale for my porject. The first change I would like to make is to use a different more relevant database than sql, which is nosql. Upgrading to nosql will make my project look better for companies and employers looking at it as it will give me knowledge of another database and just broaden my skills overall. I would also like to upgrade the dataset by putting it to a scope of all 30 NBA teams with the inclusion of at least 5 players per team, one per position . Having a larger databsse allows me to speak for all the teams in the nba and allows me to make the most comparisons I can when determining player value because every team plays eachother in a season, so it makes sense to me to include all teams. Another part I would like to upgrade is my user-friendly terminal output. Keeping the same functionality where the user needs to know no database commands is vital to me. To keep this functionality I will continue to implement options in the termianl where I would like the user to select a team and then a player from that team displaying their position and some statistic that shows their value. To get this answer of a players value is where my work behind the scenes performing a statistical analysis comes in. I would like to see correlations between points socred or assists passed or rebounds grabbed by comparing those stats with the hand tracking data that is obtained for the motion cameras. With these comparisons I hypothesize that I will see discrepensies from the +/- statistic and players efficiency with the ball and how that helps their team score which I believe will give a better way to describe a players value to a team. When that is concluded I would then be able to show models of significance that show how the plus/minus stat is innacurate and be able to see player tendancies with the ball and how those tendancies each game contribute to wins or losses to then display how good a player is in an area.
-```
+
 ---
 
-(Did you remember to add your name and GitHub account name and date to the top of this document?)
